@@ -1,73 +1,37 @@
-<h2 align="center">Hi,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <a href="https://linktr.ee/4asamklorridaa">Fachri Ahsani!</a> Great to see u here!</h2>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=asamklorridaa&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
+<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
 
----
+###
 
-### 🚀 About Me
+<div data-importer="techs" align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+</div>
 
-- 💼 A **Full Stack Developer** based in **Indonesia** 🇮🇩
-- 📖 Passionate about learning new technologies & frameworks
-- 👨‍💻 Focused on building scalable, efficient, and maintainable applications
-- 📚 Constantly exploring and refining my knowledge in software development
-- 🤝 Looking to collaborate on **Open Source Projects**
-- 📫 Reach me at **fachriahsani86@gmail.com**
-- ⚡ Fun Fact: I love **Games & Music**
+###
 
----
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
 
-<p align="center"> <img src="https://github-trophies.vercel.app/?username=asamklorridaa" alt="" style="display:flex;width:200,height:200"/</p>
-
----
-
-### 🛠️ Tech Stack
-
-#### **Programming & Markup Languages:**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,c,cpp,python,php" />
-</p>
-
-#### **Frameworks & Libraries:**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=npm,nodejs,next,react,bootstrap,mysql,tailwind,laravel,filament" />
-</p>
-
-#### **Tools & Platforms:**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=firebase,git,github,gitlab,vscode,cloudflare,docker,arduino,postman" />
-</p>
-
----
-
-### 🔗 Connect With Me
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/fachri.java)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@fachrii)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fachri-ahsani)
-
----
-
-### 📂 Featured Project
-
-🚀 **Techtonics Websites** - A dynamic web project demonstrating my full-stack skills. Check it out here: [Techtonics Websites](https://github.com/asamklorridaa/techtonics-websites.git)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=asamklorridaa&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" width="400"/>
-</p>
-
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/asamklorridaa/asamklorridaa/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-### 🔥 Quote
-
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+###
